@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="cube.png">
+<meta charset="UTF-8">
+<title>Ice Cube Labs</title>
+<link rel="stylesheet" href="brick.css">
+</head>
+<body>
+<header>
+<img src="cube.jpg" alt="Ice Cube Labs Logo">
+<h1>Ice Cube Labs</h1>
+</header>
+
+<main>
+<section id="phone">
+<h2>Phone</h2>
+<p>in the future we plan on selling phone</p>
+<a href="#">Learn More</a>
+</section>
+</main>
+
+<footer>
+<p>Copyright &copy; 2023 Ice Cube Labs</p>
+</footer>
+</body>
+</html>
